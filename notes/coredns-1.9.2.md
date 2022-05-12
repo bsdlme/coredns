@@ -30,7 +30,7 @@ Yong Tang
 ## Noteworthy Changes
 
 * core: add Trail of Bits to list of 3rd party security auditors (https://github.com/coredns/coredns/pull/5356)
-* core: avoid usage of pseudo-random number (https://github.com/coredns/coredns/pull/5228)
+* core: avoid usage of pseudo-random number (https://github.com/coredns/coredns/pull/5225)
 * plugin/bufsize: don't add OPT RR to non-EDNS0 queries (https://github.com/coredns/coredns/pull/5368)
 * plugin/cache: add refresh mode setting to serve_stale (https://github.com/coredns/coredns/pull/5131)
 * plugin/cache: fix cache poisoning exploit (https://github.com/coredns/coredns/pull/5174)
